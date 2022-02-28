@@ -14,6 +14,9 @@ Les logiciels suivants peuvent faciliter la prise en main:
 
 ## Installation
 
+Pour créer une base de données au format géostandard CNIG, on utilise le script SQL proposé sur ce dépôt: [geostandard-CNIG.sql](postgis/geostandard-CNIG.sql).
+Vous pouvez utiliser DBeaver pour cela, en l'ayant au préalable connecté à un serveur PostgreSQL.
+
 *TODO*
 
 ## Notes et références
