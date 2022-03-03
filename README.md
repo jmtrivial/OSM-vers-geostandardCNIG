@@ -24,6 +24,10 @@ Vous pouvez utiliser DBeaver pour cela, en l'ayant au préalable connecté à un
 
 *TODO*
 
+## Exemples de données
+
+On trouve dans le répertoire [echantillons](/echantillons/) des jeux de données qui peuvent être chargés dans la base de données.
+
 ## Retours utilisateurs
 
 N'hésitez pas à utiliser les [issues de ce dépôt github](https://github.com/jmtrivial/OSM-vers-geostandardCNIG/issues) pour tout retour utilisateur.
