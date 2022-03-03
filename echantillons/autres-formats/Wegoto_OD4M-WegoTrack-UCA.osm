@@ -1,0 +1,2654 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-1591656' action='modify' timestamp='2021-11-30T15:24:57Z' visible='true' version='1' lat='45.76085169444' lon='3.10933724884'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='bat_id' v='5' />
+    <tag k='date_cre' v='2021-11-30T03:26:40Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000221' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-26-35.jpeg' />
+    <tag k='node_type_id' v='5' />
+    <tag k='prt_acces_id' v='2' />
+    <tag k='prt_action_id' v='6' />
+    <tag k='prt_id' v='7' />
+    <tag k='prt_l140_id' v='1' />
+    <tag k='prt_lib' v='polytec' />
+    <tag k='prt_ouvre_id' v='5' />
+    <tag k='prt_pg_id' v='5' />
+    <tag k='prt_photo_acc' v='2021-11-30_15-23_1_/5_2131558929_null_null_30-11-2021_03-23-56.jpeg' />
+    <tag k='prt_photo_prt' v='2021-11-30_15-23_1_/5_2131558940_null_null_30-11-2021_03-24-13.jpeg' />
+    <tag k='prt_ramp' v='false' />
+    <tag k='prt_seuil' v='false' />
+    <tag k='prt_type_id' v='2' />
+    <tag k='prt_ufr_ext' v='true' />
+    <tag k='prt_ufr_int' v='true' />
+    <tag k='prt_vitre_id' v='2' />
+  </node>
+  <node id='-1591658' action='modify' timestamp='2021-11-30T15:48:38Z' visible='true' version='1' lat='45.76171832438' lon='3.10875402217'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:48:22Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000235' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591659' action='modify' timestamp='2021-11-30T15:07:28Z' visible='true' version='1' lat='45.75948779344' lon='3.11018552116'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='bat_id' v='2' />
+    <tag k='date_cre' v='2021-11-30T03:07:20Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000209' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='5' />
+    <tag k='prt_acces_id' v='2' />
+    <tag k='prt_action_id' v='6' />
+    <tag k='prt_id' v='4' />
+    <tag k='prt_l140_id' v='1' />
+    <tag k='prt_lib' v='entrée sud' />
+    <tag k='prt_ouvre_id' v='5' />
+    <tag k='prt_pg_id' v='5' />
+    <tag k='prt_photo_acc' v='2021-11-30_15-07_2_/5_2131558929_null_null_30-11-2021_03-08-35.jpeg' />
+    <tag k='prt_photo_prt' v='2021-11-30_15-07_2_/5_2131558940_null_null_30-11-2021_03-08-48.jpeg' />
+    <tag k='prt_ramp' v='false' />
+    <tag k='prt_seuil' v='false' />
+    <tag k='prt_type_id' v='2' />
+    <tag k='prt_ufr_ext' v='true' />
+    <tag k='prt_ufr_int' v='true' />
+    <tag k='prt_vitre_id' v='2' />
+  </node>
+  <node id='-1591660' action='modify' timestamp='2021-11-30T15:31:34Z' visible='true' version='1' lat='45.76118948137' lon='3.10921270865'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:27:27Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000225' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='true' />
+    <tag k='tra_bev_etat_id' v='1' />
+    <tag k='tra_chanfrein' v='false' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='240' />
+    <tag k='tra_limit_id' v='6' />
+    <tag k='tra_pente' v='0' />
+    <tag k='tra_photo' v='2021-11-30_15-28_y_y_10/4_1_10_2021-11-30_15-28_y_y_10_30-11-2021_03-28-19.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1591661' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.760593243' lon='3.10949024745'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:18:26Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000219' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591663' action='modify' timestamp='2021-11-30T15:06:24Z' visible='true' version='1' lat='45.75931905692' lon='3.11031601675'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:05:19Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000207' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-06-53.jpeg' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='false' />
+    <tag k='tra_chanfrein' v='false' />
+    <tag k='tra_devers' v='-1' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='230' />
+    <tag k='tra_limit_id' v='6' />
+    <tag k='tra_pente' v='-1' />
+    <tag k='tra_photo' v='2021-11-30_15-03_a_e_10/4_1_10_2021-11-30_15-03_a_e_10_30-11-2021_03-03-55.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1591664' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.75995231264' lon='3.10990223168'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:17:03Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000211' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591666' action='modify' timestamp='2021-11-30T15:42:49Z' visible='true' version='1' lat='45.76149196' lon='3.10890028307'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:42:36Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000231' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='true' />
+    <tag k='tra_bev_etat_id' v='1' />
+    <tag k='tra_chanfrein' v='false' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='470' />
+    <tag k='tra_limit_id' v='6' />
+    <tag k='tra_pente' v='-1' />
+    <tag k='tra_photo' v='2021-11-30_15-43_t_g_10/4_1_10_2021-11-30_15-43_t_g_10_30-11-2021_03-43-26.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1591667' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.75980709712' lon='3.10999557424'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='bat_id' v='4' />
+    <tag k='date_cre' v='2021-11-30T03:26:40Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000210' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-26-35.jpeg' />
+    <tag k='node_type_id' v='5' />
+    <tag k='prt_acces_id' v='2' />
+    <tag k='prt_action_id' v='6' />
+    <tag k='prt_id' v='5' />
+    <tag k='prt_l140_id' v='1' />
+    <tag k='prt_lib' v='entrée nord' />
+    <tag k='prt_ouvre_id' v='5' />
+    <tag k='prt_pg_id' v='5' />
+    <tag k='prt_photo_acc' v='2021-11-30_15-23_1_/5_2131558929_null_null_30-11-2021_03-23-56.jpeg' />
+    <tag k='prt_photo_prt' v='2021-11-30_15-23_1_/5_2131558940_null_null_30-11-2021_03-24-13.jpeg' />
+    <tag k='prt_ramp' v='false' />
+    <tag k='prt_seuil' v='false' />
+    <tag k='prt_type_id' v='2' />
+    <tag k='prt_ufr_ext' v='true' />
+    <tag k='prt_ufr_int' v='true' />
+    <tag k='prt_vitre_id' v='2' />
+  </node>
+  <node id='-1591668' action='modify' timestamp='2021-11-30T15:06:24Z' visible='true' version='1' lat='45.75928365862' lon='3.11033943454'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:03:17Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000206' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='true' />
+    <tag k='tra_bev_etat_id' v='2' />
+    <tag k='tra_chanfrein' v='true' />
+    <tag k='tra_devers' v='1' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='230' />
+    <tag k='tra_pente' v='-1' />
+    <tag k='tra_photo' v='2021-11-30_15-03_a_e_10/4_1_10_2021-11-30_15-03_a_e_10_30-11-2021_03-05-48.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1591671' action='modify' timestamp='2021-11-30T15:27:52Z' visible='true' version='1' lat='45.76104074314' lon='3.10922893038'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:27:13Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000223' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591673' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.76010887501' lon='3.10980159525'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:17:25Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000213' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591675' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.76019051099' lon='3.10974912049'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:17:35Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000214' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591676' action='modify' timestamp='2021-11-30T15:03:26Z' visible='true' version='1' lat='45.7591238246' lon='3.11043682114'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:03:17Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000204' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591679' action='modify' timestamp='2021-11-30T15:27:52Z' visible='true' version='1' lat='45.76112436377' lon='3.10920686251'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:27:27Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000224' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591681' action='modify' timestamp='2021-11-30T15:37:03Z' visible='true' version='1' lat='45.76132168818' lon='3.10900547725'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:35:09Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000228' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-36-41.jpeg' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='false' />
+    <tag k='tra_chanfrein' v='true' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='550' />
+    <tag k='tra_pente' v='-1' />
+    <tag k='tra_photo' v='2021-11-30_15-33_iI_k_10/4_1_10_2021-11-30_15-33_iI_k_10_30-11-2021_03-35-38.jpeg' />
+    <tag k='tra_ressaut' v='1' />
+  </node>
+  <node id='-1591683' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.76052434847' lon='3.10953453246'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:18:15Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000218' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591684' action='modify' timestamp='2021-11-30T15:21:13Z' visible='true' version='1' lat='45.7607150944' lon='3.10941293387'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:18:26Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000220' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-26-35.jpeg' />
+    <tag k='node_type_id' v='5' />
+    <tag k='prt_acces_id' v='2' />
+    <tag k='prt_action_id' v='6' />
+    <tag k='prt_esc_h_r' v='1' />
+    <tag k='prt_id' v='6' />
+    <tag k='prt_l140_id' v='1' />
+    <tag k='prt_lib' v='polytec' />
+    <tag k='prt_ouvre_id' v='5' />
+    <tag k='prt_pg_id' v='5' />
+    <tag k='prt_photo_acc' v='2021-11-30_15-18_2_/5_2131558929_null_null_30-11-2021_03-19-38.jpeg' />
+    <tag k='prt_photo_prt' v='2021-11-30_15-18_2_/5_2131558940_null_null_30-11-2021_03-19-53.jpeg' />
+    <tag k='prt_ramp' v='false' />
+    <tag k='prt_type_id' v='2' />
+    <tag k='prt_ufr_ext' v='true' />
+    <tag k='prt_ufr_int' v='true' />
+    <tag k='prt_vitre_id' v='2' />
+  </node>
+  <node id='-1591686' action='modify' timestamp='2021-11-30T15:48:38Z' visible='true' version='1' lat='45.76176848125' lon='3.1087235694'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:48:33Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000236' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591687' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.76043947339' lon='3.10958908959'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:18:06Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000217' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591690' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.76002869908' lon='3.10985313142'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:17:15Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000212' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591691' action='modify' timestamp='2021-11-30T14:50:33Z' visible='true' version='1' lat='45.75903649582' lon='3.11042637042'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='bat_id' v='3' />
+    <tag k='date_cre' v='2021-11-30T03:03:17Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='3' />
+    <tag k='node_id' v='100630200000201' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='5' />
+    <tag k='prt_acces_id' v='2' />
+    <tag k='prt_action_id' v='5' />
+    <tag k='prt_l140_id' v='2' />
+    <tag k='prt_lib' v='limos' />
+    <tag k='prt_ouvre_id' v='7' />
+    <tag k='prt_pg_id' v='4' />
+    <tag k='prt_photo_acc' v='2021-11-30_14-45_1_/5_2131558929_null_null_30-11-2021_02-46-24.jpeg' />
+    <tag k='prt_photo_ext' v='2021-11-30_14-45_1_/5_2131558938_null_null_30-11-2021_02-49-51.jpeg' />
+    <tag k='prt_photo_prt' v='2021-11-30_14-45_1_/5_2131558940_null_null_30-11-2021_02-46-40.jpeg' />
+    <tag k='prt_ramp' v='false' />
+    <tag k='prt_seuil' v='false' />
+    <tag k='prt_type_id' v='2' />
+    <tag k='prt_ufr_ext' v='false' />
+    <tag k='prt_ufr_int' v='true' />
+    <tag k='prt_vitre_id' v='5' />
+  </node>
+  <node id='-1591693' action='modify' timestamp='2021-11-30T15:45:43Z' visible='true' version='1' lat='45.76154063172' lon='3.10886801669'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:44:31Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000232' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='true' />
+    <tag k='tra_bev_etat_id' v='2' />
+    <tag k='tra_chanfrein' v='true' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='470' />
+    <tag k='tra_pente' v='-2' />
+    <tag k='tra_photo' v='2021-11-30_15-43_t_g_10/4_1_10_2021-11-30_15-43_t_g_10_30-11-2021_03-45-09.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1591696' action='modify' timestamp='2021-11-30T15:39:54Z' visible='true' version='1' lat='45.76138030105' lon='3.10896715834'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:36:52Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000229' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='false' />
+    <tag k='tra_chanfrein' v='false' />
+    <tag k='tra_devers' v='-1' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='500' />
+    <tag k='tra_limit_id' v='6' />
+    <tag k='tra_pente' v='1' />
+    <tag k='tra_photo' v='2021-11-30_15-37_k_k_10/4_1_10_2021-11-30_15-37_k_k_10_30-11-2021_03-37-21.jpeg' />
+    <tag k='tra_ressaut' v='2' />
+  </node>
+  <node id='-1591697' action='modify' timestamp='2021-11-30T15:33:20Z' visible='true' version='1' lat='45.76127464072' lon='3.10912817128'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:33:01Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630300000201' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='2_29_10_2021-11-30_15-31_e_r_10_30-11-2021_03-33-00.jpeg' />
+    <tag k='node_type_id' v='3' />
+    <tag k='obj_place_id' v='3' />
+    <tag k='obj_position' v='true' />
+  </node>
+  <node id='-1591698' action='modify' timestamp='2021-11-30T15:27:52Z' visible='true' version='1' lat='45.76094291557' lon='3.10928428048'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:26:56Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000222' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591700' action='modify' timestamp='2021-11-30T15:07:28Z' visible='true' version='1' lat='45.75943180934' lon='3.1102285435'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:07:20Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000208' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591701' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.76027342407' lon='3.10969582475'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:17:46Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000215' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591702' action='modify' timestamp='2021-11-30T15:39:54Z' visible='true' version='1' lat='45.76142971337' lon='3.10893931221'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:38:18Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000230' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-42-30.jpeg' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='false' />
+    <tag k='tra_chanfrein' v='true' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='500' />
+    <tag k='tra_pente' v='-1' />
+    <tag k='tra_photo' v='2021-11-30_15-37_k_k_10/4_1_10_2021-11-30_15-37_k_k_10_30-11-2021_03-38-50.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1591704' action='modify' timestamp='2021-11-30T15:18:42Z' visible='true' version='1' lat='45.76035697838' lon='3.10964211676'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:17:56Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000216' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591705' action='modify' timestamp='2021-11-30T15:36:19Z' visible='true' version='1' lat='45.76127134208' lon='3.10903773116'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:33:18Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000227' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='false' />
+    <tag k='tra_chanfrein' v='false' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='550' />
+    <tag k='tra_limit_id' v='6' />
+    <tag k='tra_pente' v='-1' />
+    <tag k='tra_photo' v='2021-11-30_15-33_iI_k_10/4_1_10_2021-11-30_15-33_iI_k_10_30-11-2021_03-33-47.jpeg' />
+    <tag k='tra_ressaut' v='1' />
+  </node>
+  <node id='-1591706' action='modify' timestamp='2021-11-30T15:33:20Z' visible='true' version='1' lat='45.7612604' lon='3.10915768'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:30:19Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000226' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-32-09.jpeg' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='true' />
+    <tag k='tra_bev_etat_id' v='2' />
+    <tag k='tra_chanfrein' v='true' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='240' />
+    <tag k='tra_pente' v='-1' />
+    <tag k='tra_photo' v='2021-11-30_15-28_y_y_10/4_1_10_2021-11-30_15-28_y_y_10_30-11-2021_03-30-46.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1591719' action='modify' timestamp='2021-11-30T15:51:07Z' visible='true' version='1' lat='45.76183433317' lon='3.10868152718'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='bat_id' v='6' />
+    <tag k='date_cre' v='2021-11-30T03:48:33Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000237' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='5' />
+    <tag k='prt_acces_id' v='2' />
+    <tag k='prt_action_id' v='6' />
+    <tag k='prt_id' v='8' />
+    <tag k='prt_l140_id' v='1' />
+    <tag k='prt_lib' v='iut bloc central' />
+    <tag k='prt_ouvre_id' v='2' />
+    <tag k='prt_photo_acc' v='2021-11-30_15-49_2_/5_2131558929_null_null_30-11-2021_03-49-40.jpeg' />
+    <tag k='prt_photo_prt' v='2021-11-30_15-49_2_/5_2131558940_null_null_30-11-2021_03-49-57.jpeg' />
+    <tag k='prt_ramp' v='false' />
+    <tag k='prt_seuil' v='false' />
+    <tag k='prt_type_id' v='2' />
+    <tag k='prt_ufr_ext' v='true' />
+    <tag k='prt_ufr_int' v='true' />
+    <tag k='prt_vitre_id' v='1' />
+  </node>
+  <node id='-1591802' action='modify' timestamp='2021-11-30T16:09:12Z' visible='true' version='1' lat='45.75944245741' lon='3.11121177925'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:07:58Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000101' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='true' />
+    <tag k='tra_bev_etat_id' v='1' />
+    <tag k='tra_chanfrein' v='false' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='true' />
+    <tag k='tra_feux_s' v='true' />
+    <tag k='tra_larg' v='260' />
+    <tag k='tra_limit_id' v='6' />
+    <tag k='tra_pente' v='0' />
+    <tag k='tra_photo' v='2021-11-30_16-06_l_k_10/4_1_10_2021-11-30_16-06_l_k_10_30-11-2021_04-06-36.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1591812' action='modify' timestamp='2021-11-30T16:16:49Z' visible='true' version='1' lat='45.76006736943' lon='3.11267826738'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:16:40Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000118' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591813' action='modify' timestamp='2021-11-30T16:16:49Z' visible='true' version='1' lat='45.759913465' lon='3.11245054'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:16:14Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000115' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591815' action='modify' timestamp='2021-11-30T16:16:49Z' visible='true' version='1' lat='45.76002615879' lon='3.11259399489'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:16:32Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000117' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591816' action='modify' timestamp='2021-11-30T16:16:49Z' visible='true' version='1' lat='45.75997502752' lon='3.11250923993'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:16:24Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000116' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591856' action='modify' timestamp='2021-11-30T16:14:51Z' visible='true' version='1' lat='45.75957448744' lon='3.11160958862'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:12:32Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000105' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591858' action='modify' timestamp='2021-11-30T16:14:51Z' visible='true' version='1' lat='45.75965483445' lon='3.11183612454'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:12:56Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000107' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591859' action='modify' timestamp='2021-11-30T16:14:51Z' visible='true' version='1' lat='45.7597288112' lon='3.11206999852'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:13:19Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000109' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591862' action='modify' timestamp='2021-11-30T16:14:51Z' visible='true' version='1' lat='45.75961879877' lon='3.11171807922'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:12:44Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000106' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591863' action='modify' timestamp='2021-11-30T16:14:51Z' visible='true' version='1' lat='45.75979763037' lon='3.11228402954'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:13:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000111' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591864' action='modify' timestamp='2021-11-30T16:14:51Z' visible='true' version='1' lat='45.75954081217' lon='3.11150681297'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:12:20Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000104' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591866' action='modify' timestamp='2021-11-30T16:14:51Z' visible='true' version='1' lat='45.75969259228' lon='3.11195188719'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:13:07Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000108' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591867' action='modify' timestamp='2021-11-30T16:14:51Z' visible='true' version='1' lat='45.75976636066' lon='3.11218834918'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:13:31Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000110' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591907' action='modify' timestamp='2021-11-30T16:18:20Z' visible='true' version='1' lat='45.76011302' lon='3.11276098'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:16:40Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000119' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_04-17-49.jpeg' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591910' action='modify' timestamp='2021-11-30T16:18:20Z' visible='true' version='1' lat='45.76005747' lon='3.11278706003'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:18:09Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000120' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1591958' action='modify' timestamp='2021-11-30T16:22:33Z' visible='true' version='1' lat='45.75997106112' lon='3.11280761713'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:18:09Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='esc_bev' v='false' />
+    <tag k='esc_photo' v='30-11-2021_04-22-00.jpeg' />
+    <tag k='esc_signal' v='true' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000121' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='9' />
+  </node>
+  <node id='-1591963' action='modify' timestamp='2021-11-30T16:26:21Z' visible='true' version='1' lat='45.75983074218' lon='3.11292877099'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='bat_id' v='1' />
+    <tag k='date_cre' v='2021-11-30T04:18:09Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000124' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='5' />
+    <tag k='prt_acces_id' v='3' />
+    <tag k='prt_action_id' v='6' />
+    <tag k='prt_alarme' v='true' />
+    <tag k='prt_id' v='1' />
+    <tag k='prt_l140_id' v='1' />
+    <tag k='prt_lib' v='maison des étudiants' />
+    <tag k='prt_ouvre_id' v='3' />
+    <tag k='prt_photo_acc' v='2021-11-30_16-23_2_/5_2131558929_null_null_30-11-2021_04-24-29.jpeg' />
+    <tag k='prt_photo_prt' v='2021-11-30_16-23_2_/5_2131558940_null_null_30-11-2021_04-24-44.jpeg' />
+    <tag k='prt_ramp' v='false' />
+    <tag k='prt_seuil' v='false' />
+    <tag k='prt_type_id' v='2' />
+    <tag k='prt_ufr_ext' v='true' />
+    <tag k='prt_ufr_int' v='true' />
+    <tag k='prt_vitre_id' v='4' />
+  </node>
+  <node id='-1592112' action='modify' visible='true' lat='45.75981968913' lon='3.11236198266'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:14:11Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000112' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1592113' action='modify' visible='true' lat='45.75983657995' lon='3.11240479425'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:14:33Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000113' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='8' />
+    <tag k='rup_asc' v='false' />
+    <tag k='rup_h_m' v='12' />
+    <tag k='rup_nb_m_id' v='1' />
+    <tag k='rup_photo' v='66' />
+    <tag k='rup_presence' v='true' />
+    <tag k='rup_ramp' v='false' />
+  </node>
+  <node id='-1592132' action='modify' visible='true' lat='45.75983937644' lon='3.11243852384'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:14:11Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000114' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_04-15-52.jpeg' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1592224' action='modify' visible='true' lat='45.75988176386' lon='3.112854673'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:21:10Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='esc_bev' v='false' />
+    <tag k='esc_photo' v='30-11-2021_04-19-16.jpeg' />
+    <tag k='esc_signal' v='false' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000122' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='9' />
+  </node>
+  <node id='-1592248' action='modify' visible='true' lat='45.75982122608' lon='3.11290067246'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:18:09Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000123' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1592383' action='modify' visible='true' lat='45.75948192452' lon='3.11132694536'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:07:58Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000102' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='true' />
+    <tag k='tra_bev_etat_id' v='2' />
+    <tag k='tra_chanfrein' v='true' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='true' />
+    <tag k='tra_feux_s' v='false' />
+    <tag k='tra_larg' v='260' />
+    <tag k='tra_pente' v='0' />
+    <tag k='tra_photo' v='2021-11-30_16-06_l_k_10/4_1_10_2021-11-30_16-06_l_k_10_30-11-2021_04-08-29.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1592384' action='modify' visible='true' lat='45.75949125692' lon='3.11135314236'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T04:12:05Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000103' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='8' />
+    <tag k='rup_asc' v='false' />
+    <tag k='rup_h_m' v='5' />
+    <tag k='rup_nb_m_id' v='1' />
+    <tag k='rup_photo' v='66' />
+    <tag k='rup_presence' v='true' />
+    <tag k='rup_ramp' v='false' />
+  </node>
+  <node id='-1593561' action='modify' visible='true' lat='45.75903588972' lon='3.11049429835'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:00:24Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='3' />
+    <tag k='node_id' v='100630200000203' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-00-03.jpeg' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1593562' action='modify' visible='true' lat='45.75904175721' lon='3.11051500759'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='bat_id' v='1' />
+    <tag k='date_cre' v='2021-11-30T03:03:17Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='3' />
+    <tag k='node_id' v='100630200000301' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='5' />
+    <tag k='prt_acces_id' v='2' />
+    <tag k='prt_action_id' v='6' />
+    <tag k='prt_id' v='2' />
+    <tag k='prt_l140_id' v='1' />
+    <tag k='prt_lib' v='isima' />
+    <tag k='prt_ouvre_id' v='2' />
+    <tag k='prt_photo_acc' v='2021-11-30_14-52_2_/5_2131558929_null_null_30-11-2021_02-53-03.jpeg' />
+    <tag k='prt_photo_prt' v='2021-11-30_14-52_2_/5_2131558940_null_null_30-11-2021_02-53-54.jpeg' />
+    <tag k='prt_ramp' v='false' />
+    <tag k='prt_seuil' v='false' />
+    <tag k='prt_type_id' v='2' />
+    <tag k='prt_ufr_ext' v='true' />
+    <tag k='prt_ufr_int' v='true' />
+    <tag k='prt_vitre_id' v='3' />
+  </node>
+  <node id='-1593577' action='modify' visible='true' lat='45.75902056831' lon='3.11044115708'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:00:24Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='3' />
+    <tag k='node_id' v='100630200000202' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-00-03.jpeg' />
+    <tag k='node_type_id' v='1' />
+  </node>
+  <node id='-1593750' action='modify' visible='true' lat='45.76162374463' lon='3.10881640896'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:42:36Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000233' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='true' />
+    <tag k='tra_bev_etat_id' v='1' />
+    <tag k='tra_chanfrein' v='false' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='470' />
+    <tag k='tra_limit_id' v='6' />
+    <tag k='tra_pente' v='-1' />
+    <tag k='tra_photo' v='2021-11-30_15-43_t_g_10/4_1_10_2021-11-30_15-43_t_g_10_30-11-2021_03-43-26.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <node id='-1593751' action='modify' visible='true' lat='45.76167241624' lon='3.10878414258'>
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T03:44:31Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_etage' v='0' />
+    <tag k='node_ext_int' v='1' />
+    <tag k='node_id' v='100630200000234' />
+    <tag k='node_niv' v='0' />
+    <tag k='node_photo' v='1_2_30-11-2021_03-47-48.jpeg' />
+    <tag k='node_type_id' v='4' />
+    <tag k='tra_bev' v='true' />
+    <tag k='tra_bev_etat_id' v='2' />
+    <tag k='tra_chanfrein' v='true' />
+    <tag k='tra_devers' v='0' />
+    <tag k='tra_feux' v='false' />
+    <tag k='tra_larg' v='470' />
+    <tag k='tra_pente' v='-2' />
+    <tag k='tra_photo' v='2021-11-30_15-43_t_g_10/4_1_10_2021-11-30_15-43_t_g_10_30-11-2021_03-45-09.jpeg' />
+    <tag k='tra_ressaut' v='0' />
+  </node>
+  <way id='-6603353' action='modify' visible='true'>
+    <nd ref='-1591702' />
+    <nd ref='-1591666' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:42:49Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000230' />
+    <tag k='node_to_id' v='100630200000231' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000229' />
+    <tag k='way_larg_passage' v='470' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-42-30.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603354' action='modify' visible='true'>
+    <nd ref='-1591661' />
+    <nd ref='-1591684' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000219' />
+    <tag k='node_to_id' v='100630200000220' />
+    <tag k='way_devers' v='3' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000218' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603355' action='modify' visible='true'>
+    <nd ref='-1591673' />
+    <nd ref='-1591675' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000213' />
+    <tag k='node_to_id' v='100630200000214' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000212' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603356' action='modify' visible='true'>
+    <nd ref='-1591690' />
+    <nd ref='-1591673' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000212' />
+    <tag k='node_to_id' v='100630200000213' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000211' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603357' action='modify' visible='true'>
+    <nd ref='-1591687' />
+    <nd ref='-1591683' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000217' />
+    <tag k='node_to_id' v='100630200000218' />
+    <tag k='way_devers' v='2' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000216' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603358' action='modify' visible='true'>
+    <nd ref='-1591663' />
+    <nd ref='-1591700' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:07:28Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000207' />
+    <tag k='node_to_id' v='100630200000208' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000206' />
+    <tag k='way_larg_passage' v='180' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-06-53.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603359' action='modify' visible='true'>
+    <nd ref='-1591698' />
+    <nd ref='-1591671' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:27:52Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000222' />
+    <tag k='node_to_id' v='100630200000223' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000221' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='2' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-26-35.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603360' action='modify' visible='true'>
+    <nd ref='-1593561' />
+    <nd ref='-1591676' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:03:26Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000203' />
+    <tag k='node_to_id' v='100630200000204' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='3' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000203' />
+    <tag k='way_larg_passage' v='230' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-00-03.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603361' action='modify' visible='true'>
+    <nd ref='-1591664' />
+    <nd ref='-1591690' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000211' />
+    <tag k='node_to_id' v='100630200000212' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000210' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603362' action='modify' visible='true'>
+    <nd ref='-1591705' />
+    <nd ref='-1591681' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:36:19Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000227' />
+    <tag k='node_to_id' v='100630200000228' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_feux' v='false' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000226' />
+    <tag k='way_larg_passage' v='140' />
+    <tag k='way_pente' v='2' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_tra_ilot' v='false' />
+    <tag k='way_tra_marq_id' v='2' />
+    <tag k='way_type_id' v='3' />
+  </way>
+  <way id='-6603363' action='modify' visible='true'>
+    <nd ref='-1591667' />
+    <nd ref='-1591664' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000210' />
+    <tag k='node_to_id' v='100630200000211' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000209' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='2' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603364' action='modify' visible='true'>
+    <nd ref='-1591666' />
+    <nd ref='-1591693' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:45:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000231' />
+    <tag k='node_to_id' v='100630200000232' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_feux' v='false' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000230' />
+    <tag k='way_larg_passage' v='140' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_tra_ilot' v='false' />
+    <tag k='way_tra_marq_id' v='2' />
+    <tag k='way_type_id' v='3' />
+  </way>
+  <way id='-6603365' action='modify' visible='true'>
+    <nd ref='-1593751' />
+    <nd ref='-1591658' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:48:38Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000234' />
+    <tag k='node_to_id' v='100630200000235' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='true' />
+    <tag k='way_id' v='100630100000233' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='4' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-47-48.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603366' action='modify' visible='true'>
+    <nd ref='-1591668' />
+    <nd ref='-1591663' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:06:24Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000206' />
+    <tag k='node_to_id' v='100630200000207' />
+    <tag k='way_devers' v='2' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_feux' v='false' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000205' />
+    <tag k='way_larg_passage' v='140' />
+    <tag k='way_pente' v='2' />
+    <tag k='way_pente_sens' v='down' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_tra_ilot' v='false' />
+    <tag k='way_tra_marq_id' v='2' />
+    <tag k='way_type_id' v='3' />
+  </way>
+  <way id='-6603367' action='modify' visible='true'>
+    <nd ref='-1591658' />
+    <nd ref='-1591686' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:48:38Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000235' />
+    <tag k='node_to_id' v='100630200000236' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='true' />
+    <tag k='way_id' v='100630100000235' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='4' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-47-48.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603368' action='modify' visible='true'>
+    <nd ref='-1591679' />
+    <nd ref='-1591660' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:27:52Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000224' />
+    <tag k='node_to_id' v='100630200000225' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000223' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-26-35.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603369' action='modify' visible='true'>
+    <nd ref='-1591706' />
+    <nd ref='-1591705' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:33:20Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000226' />
+    <tag k='node_to_id' v='100630200000227' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000225' />
+    <tag k='way_larg_passage' v='120' />
+    <tag k='way_pente' v='2' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-32-09.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603370' action='modify' visible='true'>
+    <nd ref='-1591704' />
+    <nd ref='-1591687' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000216' />
+    <tag k='node_to_id' v='100630200000217' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000215' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603371' action='modify' visible='true'>
+    <nd ref='-1591700' />
+    <nd ref='-1591659' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:07:28Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000208' />
+    <tag k='node_to_id' v='100630200000209' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000207' />
+    <tag k='way_larg_passage' v='180' />
+    <tag k='way_pente' v='4' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-06-53.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603372' action='modify' visible='true'>
+    <nd ref='-1591671' />
+    <nd ref='-1591679' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:27:52Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000223' />
+    <tag k='node_to_id' v='100630200000224' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000222' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-26-35.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603373' action='modify' visible='true'>
+    <nd ref='-1591676' />
+    <nd ref='-1591668' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:03:26Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000204' />
+    <tag k='node_to_id' v='100630200000206' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000204' />
+    <tag k='way_larg_passage' v='230' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-00-03.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603374' action='modify' visible='true'>
+    <nd ref='-1591701' />
+    <nd ref='-1591704' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000215' />
+    <tag k='node_to_id' v='100630200000216' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000214' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603375' action='modify' visible='true'>
+    <nd ref='-1591681' />
+    <nd ref='-1591696' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:37:03Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000228' />
+    <tag k='node_to_id' v='100630200000229' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000227' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-36-41.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603376' action='modify' visible='true'>
+    <nd ref='-1591675' />
+    <nd ref='-1591701' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000214' />
+    <tag k='node_to_id' v='100630200000215' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000213' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603377' action='modify' visible='true'>
+    <nd ref='-1591660' />
+    <nd ref='-1591706' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:31:34Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000225' />
+    <tag k='node_to_id' v='100630200000226' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_feux' v='false' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000224' />
+    <tag k='way_larg_passage' v='140' />
+    <tag k='way_pente' v='4' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_tra_ilot' v='false' />
+    <tag k='way_tra_marq_id' v='5' />
+    <tag k='way_type_id' v='3' />
+  </way>
+  <way id='-6603378' action='modify' visible='true'>
+    <nd ref='-1591696' />
+    <nd ref='-1591702' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='Avenue Blaise Pascal' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:39:54Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000229' />
+    <tag k='node_to_id' v='100630200000230' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_feux' v='false' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000228' />
+    <tag k='way_larg_passage' v='140' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_tra_ilot' v='false' />
+    <tag k='way_tra_marq_id' v='2' />
+    <tag k='way_type_id' v='3' />
+  </way>
+  <way id='-6603379' action='modify' visible='true'>
+    <nd ref='-1591686' />
+    <nd ref='-1591719' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:48:38Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000236' />
+    <tag k='node_to_id' v='100630200000237' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='true' />
+    <tag k='way_id' v='100630100000236' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-47-48.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603380' action='modify' visible='true'>
+    <nd ref='-1591656' />
+    <nd ref='-1591698' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:27:52Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000221' />
+    <tag k='node_to_id' v='100630200000222' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000220' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='2' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-26-35.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603381' action='modify' visible='true'>
+    <nd ref='-1591683' />
+    <nd ref='-1591661' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:18:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000218' />
+    <tag k='node_to_id' v='100630200000219' />
+    <tag k='way_devers' v='3' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000217' />
+    <tag k='way_larg_passage' v='550' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603474' action='modify' visible='true'>
+    <nd ref='-1591802' />
+    <nd ref='-1592383' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:09:12Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000101' />
+    <tag k='node_to_id' v='100630200000102' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_feux' v='true' />
+    <tag k='way_feux_s' v='true' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000101' />
+    <tag k='way_larg_passage' v='140' />
+    <tag k='way_pente' v='0' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_tra_ilot' v='false' />
+    <tag k='way_tra_marq_id' v='5' />
+    <tag k='way_type_id' v='3' />
+  </way>
+  <way id='-6603480' action='modify' visible='true'>
+    <nd ref='-1592132' />
+    <nd ref='-1591813' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:16:49Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000114' />
+    <tag k='node_to_id' v='100630200000115' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000113' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='2' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_04-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='6' />
+  </way>
+  <way id='-6603481' action='modify' visible='true'>
+    <nd ref='-1591813' />
+    <nd ref='-1591816' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:16:49Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000115' />
+    <tag k='node_to_id' v='100630200000116' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='3' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000114' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_04-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='6' />
+  </way>
+  <way id='-6603482' action='modify' visible='true'>
+    <nd ref='-1591816' />
+    <nd ref='-1591815' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:16:49Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000116' />
+    <tag k='node_to_id' v='100630200000117' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='3' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000115' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='-2' />
+    <tag k='way_pente_sens' v='down' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_04-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='6' />
+  </way>
+  <way id='-6603483' action='modify' visible='true'>
+    <nd ref='-1591815' />
+    <nd ref='-1591812' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:16:49Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000117' />
+    <tag k='node_to_id' v='100630200000118' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000116' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='-2' />
+    <tag k='way_pente_sens' v='down' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_04-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='6' />
+  </way>
+  <way id='-6603484' action='modify' visible='true'>
+    <nd ref='-1591812' />
+    <nd ref='-1591907' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:16:49Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000118' />
+    <tag k='node_to_id' v='100630200000119' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='1006310100000117' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='-2' />
+    <tag k='way_pente_sens' v='down' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_04-15-52.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='6' />
+  </way>
+  <way id='-6603511' action='modify' visible='true'>
+    <nd ref='-1591867' />
+    <nd ref='-1591863' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000110' />
+    <tag k='node_to_id' v='100630200000111' />
+    <tag k='way_devers' v='4' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000109' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603512' action='modify' visible='true'>
+    <nd ref='-1592384' />
+    <nd ref='-1591864' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000103' />
+    <tag k='node_to_id' v='100630200000104' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000102' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603514' action='modify' visible='true'>
+    <nd ref='-1591858' />
+    <nd ref='-1591866' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000107' />
+    <tag k='node_to_id' v='100630200000108' />
+    <tag k='way_devers' v='2' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000106' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603515' action='modify' visible='true'>
+    <nd ref='-1591856' />
+    <nd ref='-1591862' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000105' />
+    <tag k='node_to_id' v='100630200000106' />
+    <tag k='way_devers' v='2' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000104' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603516' action='modify' visible='true'>
+    <nd ref='-1591859' />
+    <nd ref='-1591867' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000109' />
+    <tag k='node_to_id' v='100630200000110' />
+    <tag k='way_devers' v='3' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000108' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='2' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603517' action='modify' visible='true'>
+    <nd ref='-1591863' />
+    <nd ref='-1592112' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000111' />
+    <tag k='node_to_id' v='100630200000112' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000110' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='-3' />
+    <tag k='way_pente_sens' v='down' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603519' action='modify' visible='true'>
+    <nd ref='-1591864' />
+    <nd ref='-1591856' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000104' />
+    <tag k='node_to_id' v='100630200000105' />
+    <tag k='way_devers' v='1' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000103' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603520' action='modify' visible='true'>
+    <nd ref='-1591866' />
+    <nd ref='-1591859' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000108' />
+    <tag k='node_to_id' v='100630200000109' />
+    <tag k='way_devers' v='3' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000107' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603521' action='modify' visible='true'>
+    <nd ref='-1591862' />
+    <nd ref='-1591858' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000106' />
+    <tag k='node_to_id' v='100630200000107' />
+    <tag k='way_devers' v='2' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000105' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603559' action='modify' visible='true'>
+    <nd ref='-1591910' />
+    <nd ref='-1591958' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:18:20Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000120' />
+    <tag k='node_to_id' v='100630200000121' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000119' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_04-17-49.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603560' action='modify' visible='true'>
+    <nd ref='-1591907' />
+    <nd ref='-1591910' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:18:20Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000119' />
+    <tag k='node_to_id' v='100630200000120' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000118' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='2' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_04-17-49.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6603595' action='modify' visible='true'>
+    <nd ref='-1592224' />
+    <nd ref='-1591958' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:22:33Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000122' />
+    <tag k='node_to_id' v='100630200000121' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_esc_barre' v='2' />
+    <tag k='way_esc_bev_b' v='false' />
+    <tag k='way_esc_bev_h' v='false' />
+    <tag k='way_esc_giron' v='32' />
+    <tag k='way_esc_h_m' v='15' />
+    <tag k='way_esc_larg' v='950' />
+    <tag k='way_esc_nb_m' v='16' />
+    <tag k='way_esc_type' v='1' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_garde_d' v='true' />
+    <tag k='way_garde_g' v='true' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000120' />
+    <tag k='way_larg_passage' v='140' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_q_id' v='5' />
+    <tag k='way_type_id' v='7' />
+  </way>
+  <way id='-6604625' action='modify' visible='true'>
+    <nd ref='-1592112' />
+    <nd ref='-1592113' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000112' />
+    <tag k='node_to_id' v='100630200000113' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000111' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='-2' />
+    <tag k='way_pente_sens' v='down' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6604640' action='modify' visible='true'>
+    <nd ref='-1592113' />
+    <nd ref='-1592132' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000113' />
+    <tag k='node_to_id' v='100630200000114' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000112' />
+    <tag k='way_larg_passage' v='200' />
+    <tag k='way_pente' v='-2' />
+    <tag k='way_pente_sens' v='down' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6604828' action='modify' visible='true'>
+    <nd ref='-1592224' />
+    <nd ref='-1592248' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:18:20Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000122' />
+    <tag k='node_to_id' v='100630200000123' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000121' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_04-17-49.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6604850' action='modify' visible='true'>
+    <nd ref='-1592248' />
+    <nd ref='-1591963' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:18:20Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000123' />
+    <tag k='node_to_id' v='100630200000124' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000122' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_04-17-49.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6604896' action='modify' visible='true'>
+    <nd ref='-1592383' />
+    <nd ref='-1592384' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T16:14:51Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000102' />
+    <tag k='node_to_id' v='100630200000103' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000123' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='3' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='5' />
+    <tag k='way_surf_photo' v='1_5_30-11-2021_04-10-52.jpeg' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6605551' action='modify' visible='true'>
+    <nd ref='-1591684' />
+    <nd ref='-1591656' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:27:52Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000220' />
+    <tag k='node_to_id' v='100630200000221' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='2' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000219' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='0' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-26-35.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='1' />
+  </way>
+  <way id='-6605759' action='modify' visible='true'>
+    <nd ref='-1591659' />
+    <nd ref='-1591667' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:27:52Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000209' />
+    <tag k='node_to_id' v='100630200000210' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='2' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000208' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='0' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-26-35.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='1' />
+  </way>
+  <way id='-6605775' action='modify' visible='true'>
+    <nd ref='-1593577' />
+    <nd ref='-1593561' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:03:26Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000202' />
+    <tag k='node_to_id' v='100630200000203' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='3' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000202' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='0' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6605817' action='modify' visible='true'>
+    <nd ref='-1593561' />
+    <nd ref='-1593562' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:03:26Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000203' />
+    <tag k='node_to_id' v='100630200000301' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='left' />
+    <tag k='way_ext_int' v='3' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000301' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='0' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6605832' action='modify' visible='true'>
+    <nd ref='-1591691' />
+    <nd ref='-1593577' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:03:26Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000201' />
+    <tag k='node_to_id' v='100630200000202' />
+    <tag k='way_devers' v='0' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='3' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000201' />
+    <tag k='way_larg_passage' v='9999' />
+    <tag k='way_pente' v='0' />
+    <tag k='way_pente_sens' v='down' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='3' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6605898' action='modify' visible='true'>
+    <nd ref='-1591693' />
+    <nd ref='-1593750' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:42:49Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000232' />
+    <tag k='node_to_id' v='100630200000233' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000231' />
+    <tag k='way_larg_passage' v='470' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_photo' v='1_2_30-11-2021_03-42-30.jpeg' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_type_id' v='2' />
+  </way>
+  <way id='-6605982' action='modify' visible='true'>
+    <nd ref='-1593750' />
+    <nd ref='-1593751' />
+    <tag k='adm_src_id' v='wegoto' />
+    <tag k='adr_cp' v='63170' />
+    <tag k='adr_pays' v='100' />
+    <tag k='adr_txt' v='no' />
+    <tag k='adr_ville' v='Aubière' />
+    <tag k='date_cre' v='2021-11-30T15:45:43Z' />
+    <tag k='date_mod' v='0' />
+    <tag k='node_from_id' v='100630200000233' />
+    <tag k='node_to_id' v='100630200000234' />
+    <tag k='way_devers' v='-1' />
+    <tag k='way_devers_sens' v='right' />
+    <tag k='way_ext_int' v='1' />
+    <tag k='way_feux' v='false' />
+    <tag k='way_guidage' v='false' />
+    <tag k='way_id' v='100630100000232' />
+    <tag k='way_larg_passage' v='140' />
+    <tag k='way_pente' v='1' />
+    <tag k='way_pente_sens' v='up' />
+    <tag k='way_surf_id' v='2' />
+    <tag k='way_surf_q_id' v='2' />
+    <tag k='way_tra_ilot' v='false' />
+    <tag k='way_tra_marq_id' v='2' />
+    <tag k='way_type_id' v='3' />
+  </way>
+</osm>
