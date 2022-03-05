@@ -20,9 +20,7 @@ CREATE SCHEMA IF NOT EXISTS geostandard;
 
 COMMENT ON SCHEMA geostandard IS 'standard geostandard schema';
 
-SET search_path TO 'geostandard';
-
-CREATE EXTENSION IF NOT EXISTS postgis;
+SET search_path TO 'public', 'geostandard';
 
 
 
@@ -302,7 +300,7 @@ CREATE TABLE geostandard."Noeud" (
     "abaisseTrottoir" real,
     "controleBEV" geostandard.enum7,
     "bandeInterception" boolean,
-    "geom" geostandard.geometry(Point,4326) NOT NULL,
+    "geom" geometry(Point,4326) NOT NULL,
     
     CONSTRAINT pk_noeud PRIMARY KEY ("idNoeud")
 );
@@ -319,7 +317,7 @@ CREATE TABLE geostandard."Troncon_Cheminement" (
     "pente" integer,
     "devers" integer,
     "accessibiliteGlobale" geostandard.enum3,
-    "geom" geostandard.geometry(LineString,4326) NOT NULL,
+    "geom" geometry(LineString,4326) NOT NULL,
     
     CONSTRAINT pk_troncon PRIMARY KEY ("idTroncon"),
     CONSTRAINT from_fk FOREIGN KEY ("from") REFERENCES geostandard."Noeud"("idNoeud"),
@@ -612,7 +610,7 @@ CREATE TABLE geostandard."Obstacle" (
     "largeurObstacle" real,
     "hauteurObsPoseSol" real,
     "hauteurSousObs" real,
-    "geom" geostandard.geometry(Point,4326) NOT NULL,
+    "geom" geometry(Point,4326) NOT NULL,
     
     CONSTRAINT pk_obstacle PRIMARY KEY ("idObstacle"),
     -- relation comporte
@@ -652,7 +650,7 @@ CREATE TABLE geostandard."ERP" (
     "latitude" real,
     "longitude" real,
     "erpActivite" character(20),
-    "geom" geostandard.geometry(MultiPolygon, 4326) NOT NULL,
+    "geom" geometry(MultiPolygon, 4326) NOT NULL,
     "erptype" geostandard.listtypeerp,
     
     CONSTRAINT pk_erp PRIMARY KEY ("idERP")
