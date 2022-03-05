@@ -288,11 +288,27 @@ SET default_tablespace = '';
 
 SET default_table_access_method = heap;
 
+-- une fonction pour créer des identifiants
+CREATE OR REPLACE FUNCTION geostandard."cnig_id_insee_classe_code_interne"(insee character varying, classe character varying, interne character varying) 
+RETURNS character varying  
+AS $$
+SELECT  format('%s:%s:%s:LOC', $1, $2, $3);
+$$ LANGUAGE SQL;
+
 
 -- Les noeuds
 
+CREATE SEQUENCE IF NOT  EXISTS geostandard."noeud_seq" AS bigint START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE CACHE 1;
+
+CREATE OR REPLACE FUNCTION geostandard."cnig_id_noeud"(insee character varying, interne character varying)
+RETURNS character varying
+AS $$ 
+SELECT geostandard."cnig_id_insee_classe_code_interne"(insee, 'NOD'::character varying,  interne)
+$$ LANGUAGE SQL;
+
+
 CREATE TABLE geostandard."Noeud" (
-    "idNoeud" character varying(255) NOT NULL,
+    "idNoeud" character varying NOT NULL DEFAULT geostandard.cnig_id_insee_classe_code_interne('xxxxx'::character varying, 'NOD'::character varying, 'CNIG'::character varying  || nextval('geostandard.noeud_seq')::character varying),
     "altitude" real,
     "bandeEveilVigilance" geostandard.enum5,
     "hauteurRessaut" real,
@@ -307,8 +323,17 @@ CREATE TABLE geostandard."Noeud" (
 
 -- Les tronçons
 
+CREATE SEQUENCE IF NOT  EXISTS geostandard."troncon_seq" AS bigint START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE CACHE 1;
+
+CREATE OR REPLACE FUNCTION geostandard."cnig_id_troncon"(insee character varying, interne character varying)
+RETURNS character varying
+AS $$ 
+SELECT geostandard."cnig_id_insee_classe_code_interne"(insee, 'TRC'::character varying,  interne)
+$$ LANGUAGE SQL;
+
+
 CREATE TABLE geostandard."Troncon_Cheminement" (
-    "idTroncon" character varying(255) NOT NULL,
+    "idTroncon"  character varying NOT NULL DEFAULT geostandard.cnig_id_insee_classe_code_interne('xxxxx'::character varying, 'TRC'::character varying, 'CNIG'::character varying  || nextval('geostandard.noeud_seq')::character varying),
     "from" character varying(255),
     "to" character varying(255),
     "longueur" integer,
