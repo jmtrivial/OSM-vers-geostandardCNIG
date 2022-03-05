@@ -19,14 +19,18 @@ Les logiciels suivants peuvent faciliter la prise en main:
 
 ## Installation
 
-Pour créer une base de données au format géostandard CNIG, on utilise le script SQL proposé sur ce dépôt: [geostandard-CNIG.sql](postgis/geostandard-CNIG.sql).
-Vous pouvez utiliser DBeaver pour cela, en l'ayant au préalable connecté à un serveur PostgreSQL.
+Pour créer une base de données au format géostandard CNIG, on utilise le script SQL proposé sur le dépôt: [geostandard-CNIG.sql](postgis/geostandard-CNIG.sql).
+Vous pouvez utiliser DBeaver pour cela, en l'ayant au préalable connecté à un serveur PostgreSQL via le [driver correspondant](https://dbeaver.com/docs/wiki/Database-drivers).
+
+La capture d'écran ci-dessous montre l'interface de dbeaver avec un jeu de données chargé depuis le répertoire [échantillons](/echantillons/).
+![Cheminements sur le campus des Cézeaux, Université Clermont Auvergne](images/dbeaver-UCA.png)
+
 
 *TODO*
 
 ## Exemples de données
 
-On trouve dans le répertoire [echantillons](/echantillons/) des jeux de données qui peuvent être chargés dans la base de données.
+On trouve dans le répertoire [échantillons](/echantillons/) des jeux de données qui peuvent être chargés dans la base de données.
 
 ## Retours utilisateurs
 
