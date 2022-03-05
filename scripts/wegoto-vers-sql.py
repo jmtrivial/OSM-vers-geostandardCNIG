@@ -88,8 +88,8 @@ class Point(AbstractPoint):
     def get_xml_tag(self, key, char2 = False):
         return OSMUtil.get_xml_tag(self.xml_node, key, char2)
 
-    def latlng(self):
-        return str(self.lat) + " " + str(self.lng)
+    def lnglat(self):
+        return str(self.lng) + " " + str(self.lat)
 
     def __str__(self):
         return str((self.lat, self.lng))
@@ -122,6 +122,9 @@ class PointDecorator(AbstractPoint):
         codeINSEE = CNIGUtil.getCodeINSEE(commune, codepostal)
         return CNIGUtil.getUniqueIdentifiant(codeINSEE, codeClasse, idTechnique)
 
+    def getPostGISPoint(self):
+        return "POINT(" + str(self.lng) + " " + str(self.lat) + ")"
+
     @property
     def point(self) -> str:
         return self._point
@@ -130,8 +133,8 @@ class PointDecorator(AbstractPoint):
     def id(self) -> str:
         return self._point.id
 
-    def latlng(self):
-        return self._point.latlng()
+    def lnglat(self):
+        return self._point.lnglat()
 
     @property
     def lat(self) -> str:
@@ -251,7 +254,7 @@ class Geostandard:
                 self._data["abaisseTrottoir"] = None
                 self._data["controleBEV"] = None
                 self._data["bandeInterception"] = None
-            self._data["geom"] = "POINT(" + str(self.lat) + " " + str(self.lng) + ")"
+            self._data["geom"] = self.getPostGISPoint()
 
         def to_sql(self, schema):
             return self.sql_insert_request("Noeud", schema, True)
@@ -273,7 +276,7 @@ class Geostandard:
             self._data["pente"] = int(self.get_xml_tag("way_pente")) # TODO: intégrer "way_pente_sens"
             self._data["devers"] = int(self.get_xml_tag("way_devers")) # TODO: intégrer "way_devers_sens"
             self._data["accessibiliteGlobale"] = None # (accessible, accessibilité moyenne, non accessible) non disponible
-            self._data["geom"] = "LineString(" + ",".join([p.latlng() for p in self.points]) + ")"
+            self._data["geom"] = "LineString(" + ",".join([p.lnglat() for p in self.points]) + ")"
 
         def get_id_troncon(self):
             return self._data["idTroncon"]
@@ -361,7 +364,7 @@ class Geostandard:
             self._data["hauteurObsPoseSol"] = None
             self._data["hauteurSousObs"] = None
 
-            self._data["geom"] = "POINT(" + str(self.lat) + " " + str(self.lng) + ")"
+            self._data["geom"] = self.getPostGISPoint()
             # TODO: pas de tronçon à associer?
 
         def to_sql(self, schema):

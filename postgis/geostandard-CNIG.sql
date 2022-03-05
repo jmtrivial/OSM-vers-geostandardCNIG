@@ -456,15 +456,9 @@ CREATE TABLE geostandard."Stationnement_PMR" (
     "devers" integer,
     "typeSol" geostandard.enum18,
     
-    CONSTRAINT pk_stationnement PRIMARY KEY ("idStationnement")
-);
-
--- un noeud peut donner accès à plusieurs stationnements PMR, et réciproquement
-CREATE TABLE geostandard."Noeud_Stationnement_PMR" (
-    "idStationnement" character varying(255) NOT NULL,
     "idNoeud" character varying(255) NOT NULL,
     CONSTRAINT noeud_fk FOREIGN KEY ("idNoeud") REFERENCES geostandard."Noeud"("idNoeud"),
-    CONSTRAINT stationnement_fk FOREIGN KEY ("idStationnement") REFERENCES geostandard."Stationnement_PMR"("idStationnement")
+    CONSTRAINT pk_stationnement PRIMARY KEY ("idStationnement")
 );
 
 
