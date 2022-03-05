@@ -1,6 +1,8 @@
 # Géostandard CNIG et OpenStreetMap
 
-Outils de manipulation de données d'accessibilité géostandard CNIG et OpenStreetMap (OSM).
+Ce dépôt contient des outils de manipulation de données d'accessibilité géostandard CNIG et OpenStreetMap (OSM).
+
+> :warning: les outils présentés ici, et notamment le schéma des tables géostandard CNIG sont encore en cours de développement.
 
 ## À propos du géostandard CNIG
 Le géostandard du CNIG a été proposé par le [GT Accessibilité](http://cnig.gouv.fr/?page_id=18058), et vise à proposer un cadre de description de l'accessibilité des infrastructures de mobilité piétonne.
