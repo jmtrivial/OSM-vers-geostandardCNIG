@@ -31,9 +31,13 @@ Les logiciels suivants peuvent faciliter la prise en main:
 
 ## Installation
 
-Pour créer une base de données au format géostandard CNIG, on utilise le script SQL proposé sur le dépôt: [geostandard-CNIG.sql](postgis/geostandard-CNIG.sql).
+Pour créer une base de données au format géostandard CNIG, commencer par créer une base de données PostGIS, puis y activer l'extension ```postgis``` dans le schéma ```public```.
+
+Utiliser ensuite le script SQL proposé sur le dépôt: [geostandard-CNIG.sql](postgis/geostandard-CNIG.sql).
+
 Vous pouvez utiliser DBeaver pour cela, en l'ayant au préalable connecté à un serveur PostgreSQL via le [driver correspondant](https://dbeaver.com/docs/wiki/Database-drivers).
 
+On peut ensuite configurer QGIS pour qu'il se connecte à cette base de données. On peut alors explorer les différentes tables du nouveau schéma ```geostandard```: ```Noeud```, ```Troncon_Cheminement```, ```Obstacle``` et ```ERP```. Les autres tables n'ayant pas de géométrie associée, elles ne sont pas visibles directement dans QGIS.
 
 *TODO*
 
