@@ -2,7 +2,7 @@
 
 Ce dépôt contient des outils de manipulation de données d'accessibilité géostandard CNIG et OpenStreetMap (OSM).
 
-> :warning: les outils présentés ici, et notamment le schéma des tables géostandard CNIG sont encore en cours de développement.
+> :warning: les outils présentés ici, notamment le schéma des tables géostandard CNIG et les outils de conversion sont encore en cours de développement.
 
 La documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page [documentation](documentation.md).
 
