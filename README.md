@@ -4,6 +4,8 @@ Ce dépôt contient des outils de manipulation de données d'accessibilité géo
 
 > :warning: les outils présentés ici, et notamment le schéma des tables géostandard CNIG sont encore en cours de développement.
 
+La documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page [documentation](documentation.md).
+
 ## À propos du géostandard CNIG
 Le géostandard du CNIG a été proposé par le [GT Accessibilité](http://cnig.gouv.fr/?page_id=18058), et vise à proposer un cadre de description de l'accessibilité des infrastructures de mobilité piétonne.
 
@@ -17,10 +19,6 @@ L'implémentation du géostandard que nous proposons ici au format PostGIS conti
 * il peut manquer beaucoup de géométrie, notamment filaire piéton, la modélisation la plus répendue des trottoirs dans OpenStreetMap étant de la sémantique associée au filaire automobile.
 * en partant des données OpenStreetMap, il faudrait donc entreprendre un travail de complément de la donnée. En l'état actuel des outils connus, il n'y a pas de manière efficace de réaliser ce complément. Un opérateur habitué à de la saisie complète de données d'accessibilité préférera souvent réaliser sa propre saisie complète plutôt que de consommer du temps à compléter et corriger celle qui existe. 
 * l'équipe [Compas](https://compas.limos.fr) à l'origine du présent dépôt s'intéresse à la conception d'outils permettant une conversion et une saisie efficace. Il s'agit encore d'un travail en cours de développement, comme raconté sur la page [Géostandard CNIG et OpenStreetMap](https://compas.limos.fr/geostandard-CNIG-et-OSM/)..
-
-## Documentation
-
-La documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page [documentation](documentation.md).
 
 ## Retours utilisateurs
 
