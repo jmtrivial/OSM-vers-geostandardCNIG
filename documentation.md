@@ -1,4 +1,4 @@
-# Documentation
+# Documentation
 
 ## Prérequis
 
@@ -22,7 +22,7 @@ Vous pouvez utiliser DBeaver pour cela, en l'ayant au préalable connecté à un
 
 On peut ensuite configurer QGIS pour qu'il se connecte à cette base de données. On peut alors explorer les différentes tables du nouveau schéma ```geostandard```: ```Noeud```, ```Troncon_Cheminement```, ```Obstacle``` et ```ERP```. Les autres tables n'ayant pas de géométrie associée, elles ne sont pas visibles directement dans QGIS.
 
-![Les différentes couches du géostandard visibles dans QGIS](images/couche-osm.png)
+![Les différentes couches du géostandard visibles dans QGIS](images/resultat.png)
 
 ## Import de données depuis OpenStreetMap
 
