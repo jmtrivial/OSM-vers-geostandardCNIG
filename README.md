@@ -20,7 +20,7 @@ L'implémentation du géostandard que nous proposons ici au format PostGIS conti
 
 ## Documentation
 
-La documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page [documentation](documentation.md);
+La documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page [documentation](documentation.md).
 
 ## Retours utilisateurs
 
