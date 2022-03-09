@@ -18,36 +18,9 @@ L'implémentation du géostandard que nous proposons ici au format PostGIS conti
 * en partant des données OpenStreetMap, il faudrait donc entreprendre un travail de complément de la donnée. En l'état actuel des outils connus, il n'y a pas de manière efficace de réaliser ce complément. Un opérateur habitué à de la saisie complète de données d'accessibilité préférera souvent réaliser sa propre saisie complète plutôt que de consommer du temps à compléter et corriger celle qui existe. 
 * l'équipe [Compas](https://compas.limos.fr) à l'origine du présent dépôt s'intéresse à la conception d'outils permettant une conversion et une saisie efficace. Il s'agit encore d'un travail en cours de développement, comme raconté sur la page [Géostandard CNIG et OpenStreetMap](https://compas.limos.fr/geostandard-CNIG-et-OSM/)..
 
-## Prérequis
+## Documentation
 
-Les logiciels suivants sont requis pour créer une base de données au format géostandard CNIG:
-
-* [PostGiS](https://postgis.net/) (version 3.1.1), et donc [PostgreSQL](https://www.postgresql.org/)
-* [QGIS](https://www.qgis.org/) (version 3.20)
-
-Les logiciels suivants peuvent faciliter la prise en main:
-
-* [DBeaver](https://dbeaver.io/)
-
-## Installation
-
-Pour créer une base de données au format géostandard CNIG, commencer par créer une base de données PostGIS, puis y activer l'extension ```postgis``` dans le schéma ```public```.
-
-Utiliser ensuite le script SQL proposé sur le dépôt: [geostandard-CNIG.sql](postgis/geostandard-CNIG.sql).
-
-Vous pouvez utiliser DBeaver pour cela, en l'ayant au préalable connecté à un serveur PostgreSQL via le [driver correspondant](https://dbeaver.com/docs/wiki/Database-drivers).
-
-On peut ensuite configurer QGIS pour qu'il se connecte à cette base de données. On peut alors explorer les différentes tables du nouveau schéma ```geostandard```: ```Noeud```, ```Troncon_Cheminement```, ```Obstacle``` et ```ERP```. Les autres tables n'ayant pas de géométrie associée, elles ne sont pas visibles directement dans QGIS.
-
-*TODO*
-
-## Exemples de données
-
-On trouve dans le répertoire [échantillons](/echantillons/) des jeux de données qui peuvent être chargés dans la base de données.
-
-La capture d'écran ci-dessous montre l'interface de dbeaver avec un jeu de données chargé depuis le répertoire [échantillons](/echantillons/).
-![Cheminements sur le campus des Cézeaux, Université Clermont Auvergne](images/dbeaver-UCA.png)
-
+La documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page [documentation](documentation.md);
 
 ## Retours utilisateurs
 
