@@ -4,8 +4,7 @@ Ce dépôt contient des outils de manipulation de données d'accessibilité géo
 
 > :warning: les outils présentés ici, notamment le schéma des tables géostandard CNIG et les outils de conversion sont encore en cours de développement.
 
-L'installation de la base PostGIS, la documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page 
-documentation [documentation](documentation.md).
+L'installation de la base PostGIS, la documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page  [documentation](documentation.md).
 
 ## À propos du géostandard CNIG
 Le géostandard du CNIG a été proposé par le [GT Accessibilité](http://cnig.gouv.fr/?page_id=18058), et vise à proposer un cadre de description de l'accessibilité des infrastructures de mobilité piétonne.
