@@ -30,7 +30,7 @@ Cet outil est conçu au [LIMOS](https://limos.fr) (Université Clermont Auvergne
 
 On trouvera plus d'informations sur les liens entre OpenStreetMap et le géostandard du CNIG sur le site de Compas: [Géostandard CNIG et OpenStreetMap](https://compas.limos.fr/geostandard-CNIG-et-OSM/).
 
-### Auteurs et autrices
+### Auteurs et autrices originales
 
 * Eunice Wadjon
 * Jérémy Kalsron
