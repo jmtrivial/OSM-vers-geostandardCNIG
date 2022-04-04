@@ -2,7 +2,9 @@
 
 Ce dépôt contient des outils de manipulation de données d'accessibilité géostandard CNIG et OpenStreetMap (OSM).
 
-> :warning: les outils présentés ici, et notamment le schéma des tables géostandard CNIG sont encore en cours de développement.
+> :warning: les outils présentés ici, notamment le schéma des tables géostandard CNIG et les outils de conversion sont encore en cours de développement.
+
+L'installation de la base PostGIS, la documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page  [documentation](documentation.md).
 
 ## À propos du géostandard CNIG
 Le géostandard du CNIG a été proposé par le [GT Accessibilité](http://cnig.gouv.fr/?page_id=18058), et vise à proposer un cadre de description de l'accessibilité des infrastructures de mobilité piétonne.
@@ -18,10 +20,6 @@ L'implémentation du géostandard que nous proposons ici au format PostGIS conti
 * en partant des données OpenStreetMap, il faudrait donc entreprendre un travail de complément de la donnée. En l'état actuel des outils connus, il n'y a pas de manière efficace de réaliser ce complément. Un opérateur habitué à de la saisie complète de données d'accessibilité préférera souvent réaliser sa propre saisie complète plutôt que de consommer du temps à compléter et corriger celle qui existe. 
 * l'équipe [Compas](https://compas.limos.fr) à l'origine du présent dépôt s'intéresse à la conception d'outils permettant une conversion et une saisie efficace. Il s'agit encore d'un travail en cours de développement, comme raconté sur la page [Géostandard CNIG et OpenStreetMap](https://compas.limos.fr/geostandard-CNIG-et-OSM/)..
 
-## Documentation
-
-La documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page [documentation](documentation.md).
-
 ## Retours utilisateurs
 
 N'hésitez pas à utiliser les [issues de ce dépôt github](https://github.com/jmtrivial/OSM-vers-geostandardCNIG/issues) pour tout retour utilisateur.
@@ -32,7 +30,7 @@ Cet outil est conçu au [LIMOS](https://limos.fr) (Université Clermont Auvergne
 
 On trouvera plus d'informations sur les liens entre OpenStreetMap et le géostandard du CNIG sur le site de Compas: [Géostandard CNIG et OpenStreetMap](https://compas.limos.fr/geostandard-CNIG-et-OSM/).
 
-### Auteurs et autrices
+### Auteurs et autrices originales
 
 * Eunice Wadjon
 * Jérémy Kalsron
