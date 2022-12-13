@@ -2,11 +2,11 @@
 
 Ce dépôt contient des outils de manipulation de données d'accessibilité géostandard CNIG et OpenStreetMap (OSM).
 
-> :note: Si vous cherchez le github du GT CNIG, suivez ce lien: https://github.com/GT-CNIG-Accessibilite-TEAM/GT-CNIG-Accessibilite/
-
-> :warning: les outils présentés ici, notamment le schéma des tables géostandard CNIG et les outils de conversion sont encore en cours de développement.
+> :warning: Si vous cherchez le **github du GT CNIG**, suivez ce lien: https://github.com/GT-CNIG-Accessibilite-TEAM/GT-CNIG-Accessibilite/
 
 L'installation de la base PostGIS, la documentation et les informations techniques des outils présentés sur ce dépôt sont proposées sur la page  [documentation](documentation.md).
+
+> :warning: les outils présentés ici, notamment le schéma des tables géostandard CNIG et les outils de conversion sont encore en cours de développement.
 
 ## À propos du géostandard CNIG
 Le géostandard du CNIG a été proposé par le [GT Accessibilité](http://cnig.gouv.fr/?page_id=18058), et vise à proposer un cadre de description de l'accessibilité des infrastructures de mobilité piétonne.
